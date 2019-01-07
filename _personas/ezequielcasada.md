@@ -2,7 +2,7 @@
 title: EzequielCasada
 blog: 
 github: xjezex
-facebook: xJezex
+facebook: ezequiel casada
 trello: 
 soy-de: La Plata
 ---
